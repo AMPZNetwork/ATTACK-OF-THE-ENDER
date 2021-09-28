@@ -2,128 +2,181 @@
 # Attack Of The Ender | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-2.2
+<h1>2.2</h1>
 
-§1This build should be compatible with old worlds, you will get a message about missing entries, 
-§1just click yes to accept changes and your world should load fine.
+<h4>This build should be compatible with old worlds, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
 
-§lNew Mods:
-*Just Enough Resources
-*Thaumic JEI
-*SmoothFonts
-*Quark
-*RandomPatches
-*Toast Control
-*Ice and Fire: Dragons in a whole new light!
-*ReAuth
-*Better Invalid Session
-*Dynamic Trees
-*Dynamic Trees Biomes Biomes O' Plenty Compat
-*Dynamic Trees - Thaumcraft Compat
-*Dynamic Trees - Pam's Harvestcraft Compat
+**Updated:**
++ Forge to V14.23.5.2847
++ Biomes O' Plenty to V7.0.12444
++ Classic Combat to V1.0.1
++ ConnectedTexturesMod to V1.0.1.30
++ CraftPresence to V1.6.1
++ Custom Main Menu to V2.0.9.1
++ It's the little things to V1.0.2
++ JourneyMap to V5.5.9
++ Tinkers Construct to V2.13.0.179
++ Galacticraft to V4.0.2.44
 
-§lFixes/changes
-*New Main Menu UI
+**Changed/Fixed**
++ New Main Menu UI
 
-§l§cRemoved Mods:
-*NEI
-*OptiFine (manually download at optifine.net)
-*Modpack Configuration Checker
-*Fast Leaf Decay
-*Dragon Mounts 2
-*TreeCapitator 
-*Naturac
+**Added:**
++ Just Enough Resources
++ Thaumic JEI
++ SmoothFonts
++ Quark
++ RandomPatches
++ Toast Control
++ Ice and Fire: Dragons in a whole new light!
++ ReAuth
++ Better Invalid Session
++ Dynamic Trees
++ Dynamic Trees Biomes Biomes O' Plenty Compat
++ Dynamic Trees - Thaumcraft Compat
++ Dynamic Trees - Pam's Harvestcraft Compat
 
-§lMods updated:
-*Forge to V14.23.5.2847
-*Biomes O' Plenty to V7.0.12444
-*Classic Combat to V1.0.1
-*ConnectedTexturesMod to V1.0.1.30
-*CraftPresence to V1.6.1
-*Custom Main Menu to V2.0.9.1
-*It's the little things to V1.0.2
-*JourneyMap to V5.5.9
-*Tinkers Construct to V2.13.0.179
-*Galacticraft to V4.0.2.44
+**Removed:**
++ NEI
++ OptiFine (manually download at optifine.net)
++ Modpack Configuration Checker
++ Fast Leaf Decay
++ Dragon Mounts 2
++ TreeCapitator 
++ Naturac
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
 ---------------------------------------------------------------------------------
-2.1.5
+<h1>2.1.5</h1>
 
-What's Changed:
-*Enabled Custom Main Menu
-*General improvements
-*Removed VeinMiner
-*Removed Flans Mod [not allowed on curseforge]
-*Now Available on CurseForge 
+**Updated:**
+
+**Changed/Fixed**
++ Enabled Custom Main Menu
++ General improvements
++ Removed VeinMiner
++ Removed Flans Mod [not allowed on curseforge]
++ Now Available on CurseForge<br>
 https://www.curseforge.com/minecraft/modpacks/attack-of-the-ender
++ Fixed an unexpected crash when loading the modpack
 
-Bug Fixes:
-*Removed VeinMiner
-*Fixed an unexpected crash when loading the modpack
+**Removed:**
++ VeinMiner
 
-Server Files:
-https://www.curseforge.com/minecraft/modpacks/attack-of-the-ender/files/2815715
------------------------------------------------------------------
-2.1.4
-§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
-
-*Added VeinMiner
-*Disabled Custom Main Menu [Until a i can find a fix]
-*General improvements 
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 -----------------------------------------------------------------
-2.1.3
-§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+<h1>2.1.4</h1>
 
-*Fixed an unexpected crash when loading the modpack
+**Updated:**
 
-Mods Updated:
-*Dragon Mounts 2 to Ver. 1.12.2-1.5.5
-*Better Storage Too to Ver. 1.12.2-3.0.0.2
+
+**Changed/Fixed**
++ Disabled Custom Main Menu [Until a i can find a fix]
++ General improvements
+
+**Added:**
++ VeinMiner
+
+**Removed:**
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
 -----------------------------------------------------------------
-2.1.2
-§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+<h1>2.1.3</h1>
 
-*Fixed an unexpected crash when loading the modpack
-*Added HarvestCraft
-*Updated All mods to their latest builds
+**Updated:**
++ Dragon Mounts 2 to Ver. 1.12.2-1.5.5
++ Better Storage Too to Ver. 1.12.2-3.0.0.2
 
-*Removed Quark Mod [Causing crashes]
-*Removed Morph Mod
-*Removed NonUpdate-AllMCVersion
-*Removed randompatches
+**Changed/Fixed**
++ Fixed an unexpected crash when loading the modpack
 
-Mod Updates:
-*Updated OptiFine
+**Added:**
 
-------------------[ Official Server Info ]-----------------------
-If you are using our server files please make sure copy both mods 
-and config folders as users will not be able to join once they update
+**Removed:**
 
-If you experience any crashing please upload to our 
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
+-----------------------------------------------------------------
+<h1>2.1.2</h1>
+
+**Updated:**
++ Updated All mods to their latest builds
+
+**Changed/Fixed**
++ Fixed an unexpected crash when loading the modpack
+
+**Added:**
++ Added HarvestCraft
+
+**Removed:**
++ Removed Quark Mod [Causing crashes]
++ Removed Morph Mod
++ Removed NonUpdate-AllMCVersion
++ Removed randompatches
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
+-----------------------------------------------------------------
+
+<h4> Official Server Info </h4>
+
+If you are using our server files please make sure copy both mods <br>
+and config folders as users will not be able to join once they update<h4>
+
+If you experience any crashing please upload to our<br> 
 GitHub: https://github.com/LabsZero/ATTACK-OF-THE-ENDER/issues
 
 -----------------------------------------------------------------
-2.1.1
-§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+<h1>2.1.1</h1>
 
-*Added Anti Cheat Added
+**Updated:**
 
-------------------[ Official Server Info ]-----------------------
+**Changed/Fixed**
 
-server files are now available to download
+**Added:**
++ Kinetic Anti-Cheat
+
+**Removed:**
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
+-----------------------------------------------------------------
+
+<h4> Official Server Info </h4>
+
+<h3>server files are now available to download</h3>
 
 If you experience any crashing please upload to our GitHub: 
 https://github.com/LabsZero/ATTACK-OF-THE-ENDER/issues
 -----------------------------------------------------------------
-2.1
-§l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+<h1>2.1</h1>
 
-*Added Waila Harvestability [Forgot to add this in 2.0]
-*Modpack now displays its own logo upon loading
+**Updated:**
 
-*Removed Carpenter's Blocks [due world loading crashes]
-*Removed Minions Mod
-*Removed Flans WW2 Content Pack
+**Changed/Fixed**
++ Modpack now displays its own logo upon loading
+
+**Added:**
++ Waila Harvestability
+
+**Removed:**
++ Carpenter's Blocks 
++ Removed Minions Mod
++ Removed Flans WW2 Content Pack
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 -----------------------------------------------------------------
 <h1>2.0</h1>
