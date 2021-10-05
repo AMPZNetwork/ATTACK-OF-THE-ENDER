@@ -2,6 +2,42 @@
 # Attack Of The Ender | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V3.0</h1>
+
+**Updated:**
++ Forge to (14.23.5.2847 → 36.2.8) 
++ Biomes O' Plenty to V7.0.12444
++ Updated All compatible mods to 1.16.5
+
+**Changed/Fixed**
++ Upgraded to Minecraft 1.16.5
++ Brand New Main Menu.
+
+**Added:**
++ Better Mineshafts
++ Better Stronghold
++ Better End
++ OuterEnd
++ EndRemastered
++ TerraForged
++ FancyMenu
++ NotEnoughCrashes
++ Macaw's Bridges
++ Macaw's Doors+ Macaw's Doors
+
++ Macaw's Fences
++ Macaw's Furniture
++ Macaw's Roofs
++ Macaw's Trapdoors
++ Tips
+
+**Removed:**
++ 1.12.2 Mods
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
+---------------------------------------------------------------------------------------------
 <h1>2.2</h1>
 
 <h4>This build should be compatible with old worlds, you will get a message about missing entries,<br> 
@@ -159,6 +195,7 @@ https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 If you experience any crashing please upload to our GitHub: 
 https://github.com/LabsZero/ATTACK-OF-THE-ENDER/issues
+
 -----------------------------------------------------------------
 <h1>2.1</h1>
 
@@ -193,6 +230,7 @@ https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
 -----------------------------------------------------------------
 <h1>1.2</h1>
 
@@ -219,6 +257,7 @@ https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
 -----------------------------------------------------------------
 <h1>1.1</h1>
 
@@ -235,4 +274,5 @@ https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
 
 Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/ATTACK-OF-THE-ENDER
+
 ---------------------------------------------------------------------------------------------
