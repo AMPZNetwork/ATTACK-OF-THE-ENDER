@@ -1,29 +1,25 @@
-<p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Attack_Of_The_Ender/BH_AOE_Title.png" alt="Get your server today!"  width="1920" height="200"></a>|
-</p>
-======
+![](https://www.bisecthosting.com/images/CF/Attack_Of_The_Ender/BH_AOE_Title.png)
 
-This is the official repository and issue-tracker for Attack Of The Ender
+------
+
+## Welcome to Attack Of The Ender
     
 #### Modpack Links: 
-+ https://www.technicpack.net/modpack/attack-of-the-ender.1299005 
-+ https://www.curseforge.com/minecraft/modpacks/attack-of-the-ender
-+ https://atlauncher.com/pack/attack-of-the-ender
+- [CurseForge](https://www.curseforge.com/minecraft/modpacks/attack-of-the-ender)
+- [ATLauncher](https://atlauncher.com/pack/attack-of-the-ender)
   
-Need Help?
-======
-When reporting an issue put the version number before the issue title! Such as [PACKNAME] [1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
- 
+------
 
-|You can also find us on Discord for help<br>or just to chat as well as our Guilded Server|
+## Need Help?
+
+To ensure efficient tracking and resolution of issues, please follow this format when reporting: `[vX.X.X] Issue Title`. Additionally, include any additional mods you've added to the modpack in the issue description. Your cooperation helps us identify and fix problems quickly. Thank you for your assistance.
+
+|You can also find us on Discord for help<br>or just to chat.|
 |:------------:|
-|<a href="https://discord.gg/enrpMDd"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>|
-<br>
+|<a href=" https://discord.ampznetwork.com"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" alt="Join us on Discord!"  width="250" height="70"></a>|
 
-Looking for a Reliable Server Host?
-======
-AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
+## Looking for a Reliable Server Host?
+------
+As part of our commitment to providing the best gaming experience for our community, AMPZ Network has partnered with BisectHosting to offer an exclusive discount. Use promo code **"AMPZ"** to receive a 25% discount on your first order of any gaming services. Click the banner below to claim your discount and start playing today!. 
 
-<p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Attack_Of_The_Ender/BH_AOE_Bisect.png" alt="Get your server today!"  width="1920" height="170"></a>|
-</p>
+[![BisectHosting Promo](https://www.bisecthosting.com/images/CF/Attack_Of_The_Ender/BH_AOE_Bisect.png)](https://bisecthosting.com/AMPZ?r=ATFGREPO)
